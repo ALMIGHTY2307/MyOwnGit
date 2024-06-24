@@ -1,0 +1,2 @@
+import libmog
+libmog.main()
